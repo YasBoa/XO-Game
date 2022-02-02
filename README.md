@@ -1,2 +1,2 @@
-# XOXO
+# XO
 The game XO
